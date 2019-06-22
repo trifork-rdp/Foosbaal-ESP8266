@@ -1,4 +1,5 @@
 #include <ESP8266WiFi.h>        // Include the Wi-Fi library
+//https://tttapa.github.io/ESP8266/Chap07%20-%20Wi-Fi%20Connections.html
 
 const char* ssid     = "SSID";         // The SSID (name) of the Wi-Fi network you want to connect to
 const char* password = "PASS";     // The password of the Wi-Fi network
